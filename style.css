@@ -1,0 +1,27 @@
+
+#bilder{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content:space-between;
+}
+
+.bilder{
+    width: 100%;
+    padding-top: 40px;
+}
+
+
+.bildeDiv{
+    width: 40%;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color:   #1BE4DE ;
+}
